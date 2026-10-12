@@ -1,0 +1,1 @@
+-- Database placeholder. Gunakan database asli asuransi_jiwa.sql
