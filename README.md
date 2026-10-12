@@ -1,1 +1,0 @@
-AsuransiJiwa V2 - Landing page, login role admin/nasabah, dashboard terpisah.
