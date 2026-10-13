@@ -1,0 +1,1 @@
+function login(){let u=document.getElementById('username').value;if(u==='admin')location.href='admin/dashboard-admin.html';else location.href='nasabah/dashboard-nasabah.html'}
